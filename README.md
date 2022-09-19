@@ -1,7 +1,7 @@
 Steps for creating basic react project:
 =======================================
 
-To create basic react project refer create-react-app/demo
+To create basic react project refer create-react-app
 ---------------------------------------------------------
 
 1. npx create-react-app demo
